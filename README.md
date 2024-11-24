@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Mat👋</h1>
 
-###
-
-<br clear="both">
-
 <p align="center">Nice to meet you!</p>
 
 ###
@@ -101,14 +97,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mataai&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mataai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mataai&area=true&theme=dracula&hide_border=true&radius=8&bg_color=282a36&point=ff6e96&line=b24d69&custom_title=My%20rollercoaster%20%F0%9F%8E%A2" height="270" alt="activity-graph graph"  />
 </div>
 
 ###
