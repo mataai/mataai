@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Distributed systems student at École de technologie supérieure.<br>🔥 Currently working on Lan ETS 2025. 👀 <br>⚡ In my free time I create chaos.<br>🏗 Big fan of software systems design and architecture.<br>💡 Always looking for new tech to make my ideas work better!</p>
+<p align="left">🎓 Distributed systems student at École de Technologie Supérieure.<br>🔥 Currently working on Lan ETS 2025. 👀 <br>⚡ In my free time, I create chaos.<br>🏗 Big fan of software systems design and architecture.<br>💡 Always looking for new tech to make my ideas work better!</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Coding Languages</h3>
+<h3 align="left">👨‍💻 Coding Languages I speak</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Frameworks</h3>
+<h3 align="left">📦 Frameworks I like</h3>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥 My Stats :</h2>
 
 ###
 
