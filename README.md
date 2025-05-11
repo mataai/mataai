@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Coding Languages I speak</h3>
+<h3 align="left">👨‍💻 Coding languages I speak</h3>
 
 ###
 
