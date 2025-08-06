@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Distributed systems student at École de Technologie Supérieure.<br>🔥 Currently working on Lan ETS 2025. 👀 <br>⚡ In my free time, I create chaos.<br>🏗 Big fan of software systems design and architecture.<br>💡 Always looking for new tech to make my ideas work better!</p>
+<p align="left">🎓 Distributed systems student at École de Technologie Supérieure.<br>🔥 Currently working on Lan ETS 2026. 👀 <br>⚡ In my free time, I create chaos.<br>🏗 Big fan of software systems design and architecture.<br>💡 Always looking for new tech to make my ideas work better!</p>
 
 ###
 
